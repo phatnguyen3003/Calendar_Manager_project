@@ -1,0 +1,82 @@
+[
+    {
+        "mon_hoc": "Phương pháp lập trình hướng đối tượng",
+        "phong_hoc": "1.A501",
+        "mau": "Xanh Teal",
+        "ngay_bat_dau": "04/09/2025",
+        "ngay_ket_thuc": "20/11/2025",
+        "ngay_hoc": "Thứ Năm",
+        "tiet_bat_dau": "6",
+        "so_tiet": "6"
+    },
+    {
+        "mon_hoc": "Tiếng Anh B2 - 1",
+        "phong_hoc": "C.HTA405",
+        "mau": "Tím Oải Hương",
+        "ngay_bat_dau": "05/09/2025",
+        "ngay_ket_thuc": "14/11/2025",
+        "ngay_hoc": "Thứ Sáu",
+        "tiet_bat_dau": "6",
+        "so_tiet": "4"
+    },
+    {
+        "mon_hoc": "Lập trình web và ứng dụng",
+        "phong_hoc": "C.A101",
+        "mau": "Xanh Cyan",
+        "ngay_bat_dau": "02/09/2025",
+        "ngay_ket_thuc": "11/11/2025",
+        "ngay_hoc": "Thứ Ba",
+        "tiet_bat_dau": "1",
+        "so_tiet": "5"
+    },
+    {
+        "mon_hoc": "Chủ nghĩa xã hội khoa học",
+        "phong_hoc": "1.A302",
+        "mau": "Đỏ Tươi",
+        "ngay_bat_dau": "01/09/2025",
+        "ngay_ket_thuc": "20/10/2025",
+        "ngay_hoc": "Thứ Hai",
+        "tiet_bat_dau": "4",
+        "so_tiet": "2"
+    },
+    {
+        "mon_hoc": "Chủ nghĩa xã hội khoa học",
+        "phong_hoc": "C.HTA405",
+        "mau": "Đỏ Tươi",
+        "ngay_bat_dau": "05/09/2025",
+        "ngay_ket_thuc": "24/10/2025",
+        "ngay_hoc": "Thứ Sáu",
+        "tiet_bat_dau": "4",
+        "so_tiet": "2"
+    },
+    {
+        "mon_hoc": "Giáo dục quốc phòng và an ninh I",
+        "phong_hoc": "C.HTA403",
+        "mau": "Xanh Lá",
+        "ngay_bat_dau": "08/09/2025",
+        "ngay_ket_thuc": "03/11/2025",
+        "ngay_hoc": "Thứ Hai",
+        "tiet_bat_dau": "9",
+        "so_tiet": "2"
+    },
+    {
+        "mon_hoc": "Giáo dục quốc phòng và an ninh I",
+        "phong_hoc": "1.A302",
+        "mau": "Xanh Lá",
+        "ngay_bat_dau": "12/09/2025",
+        "ngay_ket_thuc": "07/11/2025",
+        "ngay_hoc": "Thứ Sáu",
+        "tiet_bat_dau": "1",
+        "so_tiet": "3"
+    },
+    {
+        "mon_hoc": "Lý thuyết đồ thị",
+        "phong_hoc": "1.A502",
+        "mau": "Xanh Bầu Trời",
+        "ngay_bat_dau": "03/09/2025",
+        "ngay_ket_thuc": "19/11/2025",
+        "ngay_hoc": "Thứ Tư",
+        "tiet_bat_dau": "6",
+        "so_tiet": "6"
+    }
+]

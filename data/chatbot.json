@@ -1,0 +1,8 @@
+{
+    "Data": {
+        "SERVER": "test",
+        "DATABASE_NAME": "testy",
+        "Trusted_Connection": true,
+        "CREATED_DATABASE": false
+    }
+}

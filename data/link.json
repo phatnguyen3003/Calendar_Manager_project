@@ -1,0 +1,14 @@
+{
+    "CurseForge": {
+        "duong_dan_ung_dung": "C:/Users/nguye/AppData/Local/Programs/CurseForge Windows/CurseForge.exe",
+        "duong_dan_icon": "C:/Users/nguye/Source/Repos/project_moi/project_moi/data/icon/CurseForge.png"
+    },
+    "War Thunder": {
+        "duong_dan_ung_dung": "C:/Users/nguye/AppData/Local/WarThunder/launcher.exe",
+        "duong_dan_icon": "C:/Users/nguye/Source/Repos/project_moi/project_moi/data/icon/War Thunder.png"
+    },
+    "LL": {
+        "duong_dan_ung_dung": "C:/Users/nguye/AppData/Roaming/.tlauncher/legacy/Minecraft/LL.exe",
+        "duong_dan_icon": "C:/Users/nguye/Source/Repos/project_moi/project_moi/data/icon/LL.png"
+    }
+}
